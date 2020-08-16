@@ -28,7 +28,7 @@
     "handlebars": "^4.1.1",
     "handlebars-helpers": "^0.10.0",
     "helper-moment": "^0.2.0",
-    "lodash": "^4.17.10",
+    "lodash": "^4.17.20",
     "pretty-ms": "^4.0.0"
   },
   "author": "Danny Dainton",
